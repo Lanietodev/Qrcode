@@ -12,7 +12,7 @@ main{
 
   background: hsl(212, 45%, 89%)  ;
 
-  position:absolut;
+  position:absolute;
 
   display: flex;
 
@@ -30,7 +30,7 @@ main{
 
   width: 270px;
 
-
+height:100vh;
 
   background: white;
 
@@ -107,7 +107,7 @@ p{
   padding-right: 15px;
 
 }
-@media screen and (max-width:420px){
+@media screen and (max-height:420px){
   .card{
   margin-top:10%;
   margin-bottom:10%;
