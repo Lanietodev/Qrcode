@@ -11,6 +11,7 @@ body{
 main{
 
   background: hsl(212, 45%, 89%)  ;
+  height:100vh;
 
 position:absolute;
 
