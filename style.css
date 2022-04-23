@@ -14,7 +14,7 @@ body{
      align-items: center;
 
      text-align: center;
-
+     align-contents:center;
      flex-box: wrap;
 }
 .container{
@@ -50,7 +50,7 @@ color:  hsl(220, 15%, 55%);
   font-size: 14px;
   width: 250px;
 }
- .attribution { font-size: 11px; text-align: center; }
+ .attribution { font-size: 11px; text-align: center; margin:4px;}
     .attribution a { color: hsl(228, 45%, 44%); }
    
 
