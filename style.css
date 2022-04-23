@@ -22,7 +22,7 @@ body{
 display:flex;
   border-radius: 13px;
   flex-direction: column;
-
+position:absolute;
 }
 img{
   width: 260px;
