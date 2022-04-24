@@ -55,11 +55,11 @@ padding:8px;
 
 }
 
-/*.imageh{
+.imageh{
 
-  padding: 10px 5px 0 5px;
+  margin: 10px 5px 0 5px;
 
-}*/
+}
 
 h1{
 
@@ -99,7 +99,7 @@ p{
 
 }
 
-/*.card-f .p{
+.card-f .p{
 
   padding-top: 9px;
 
@@ -107,7 +107,7 @@ p{
 
   padding-right: 15px;
 
-}*/
+}
 @media screen and (max-height:420px){
   .card{
   margin-top:20vh;
