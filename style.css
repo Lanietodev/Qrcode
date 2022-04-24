@@ -8,7 +8,7 @@ body{
 
 }
 
-main{
+.container{
 
   background: hsl(212, 45%, 89%)  ;
   height:100vh;
@@ -40,7 +40,7 @@ main{
   overflow: hidden;
 
   text-align: center;
-
+padding:8px;
  
 
 }
@@ -51,15 +51,15 @@ main{
 
   border-radius: 13px;
 
-  overflow: hidden;
+  object-fit:cover;
 
 }
 
-.imageh{
+/*.imageh{
 
   padding: 10px 5px 0 5px;
 
-}
+}*/
 
 h1{
 
@@ -75,7 +75,7 @@ h1{
 
 }
 
-.card-b .h1{
+/*.card-b .h1{
 
   padding-left: 17px;
 
@@ -83,7 +83,7 @@ h1{
 
   padding-top: 12px;
 
-}
+}*/
 
 p{
 
@@ -99,7 +99,7 @@ p{
 
 }
 
-.card-f .p{
+/*.card-f .p{
 
   padding-top: 9px;
 
@@ -107,11 +107,11 @@ p{
 
   padding-right: 15px;
 
-}
+}*/
 @media screen and (max-height:420px){
   .card{
-  margin-top:20%;
-  margin-bottom:20%;
+  margin-top:20vh;
+
   }
  }
 
