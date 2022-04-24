@@ -13,7 +13,7 @@ body{
   background: hsl(212, 45%, 89%)  ;
   height:100vh;
 
-
+  margin-top:20vh;
 
   display: flex;
 
@@ -21,15 +21,15 @@ body{
 
   justify-content: center;
 
-  top: 50%;
+  top: 45%;
 
-  left:50%;
+  left:45%;
 
 }
 
 .card{
 
-  width: 270px;
+  width: 280px;
 
 
 
@@ -47,7 +47,7 @@ padding:2.5px;
 
 .imageh img{
 
-  width: 250px;
+  width: 260px;
 
   border-radius: 13px;
 
@@ -76,7 +76,7 @@ h1{
 
 }
 
-/*.card-b .h1{
+.card-b .h1{
 
   padding-left: 17px;
 
@@ -84,7 +84,7 @@ h1{
 
   padding-top: 12px;
 
-}*/
+}
 
 p{
 
@@ -109,12 +109,12 @@ p{
   padding-right: 15px;
 
 }
-@media screen and (max-height:420px){
-  .card{
-  margin-top:20vh;
 
-  }
- }
+
+
+
+  
+
 
 
 
